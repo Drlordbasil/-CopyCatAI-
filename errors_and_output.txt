@@ -1,0 +1,1 @@
+Error: Cannot create a copy of the program itself.
